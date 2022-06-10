@@ -4,6 +4,7 @@
 
 我是a我发生变化，哈哈哈哈啧啧啧
 
+它是a我发生变化，哈哈哈哈啧啧啧
 ## What is GoGoCode?
 我是C我刚刚发生变化
 [中文 README](README-cn.md)
