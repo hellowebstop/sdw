@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 我想让github也发生变化
 我是a我发生变化，哈哈哈哈啧啧啧,我也是是a我发生变化，哈哈哈哈啧啧啧
-嘻嘻·1
+嘻嘻·1hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 它是a我发生变化，哈哈哈哈啧啧啧
 ## What is GoGoCode?
 我是C我刚刚发生变化
